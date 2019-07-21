@@ -23,6 +23,7 @@
 	<li>Add item: Simply type the item into the input box and hit "Enter" to add.</li>
 	<li>Remove item temporarily: click on the item to remove. A strike-through affect would appear.</li>
 	<li>Remove item permanently: click on the garbage bin sign next to the item to remove. The item would fade out.</li>
+	<li>Hide the input box by clicking on the plus-sign icon on top. Click on it Again to make it reappear.</li>
 </ul>
 
 <h5>Hope you like it!</h5>
