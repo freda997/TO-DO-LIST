@@ -19,12 +19,10 @@
 
 <h3>User Stories: </h3>
 <ul>
-  <li>Objective: Match RGB numbers with the correct colored square displayed below by clicking or pressing on it</li>
-	<li>Correct answer: you will see a 'correct' message and all the squares and main banner will change their current color to match the correct one</li>
-	<li>Incorrect answer: the clicked square will dissapear and a 'Try again' message will display. Click your next guess until you get the correct one</li>
-  <li>Play again: If you want to play again just click on the 'Play Again' button and a new game will start. Also you can click any time on 'Easy', 'Hard', 'New Colors' to display a new asortment of colors and RGB numbers or just refresh the page</li>
-	<li>You can play as many times as you want, scores will not be saved</li>
-  <li>Easy mode is available, it will only display 3 possible options to choose from</li>
+  <li>Objective: User can easily add the todos into the list and remove items for good or temporarily. </li>
+	<li>Add item: Simply type the item into the input box and hit "Enter" to add.</li>
+	<li>Remove item temporarily: click on the item to remove. A strike-through affect would appear.</li>
+	<li>Remove item permanently: click on the garbage bin sign next to the item to remove. The item would fade out.</li>
 </ul>
 
 <h5>Hope you like it!</h5>
